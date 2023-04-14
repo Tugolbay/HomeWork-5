@@ -1,0 +1,63 @@
+.mainCard {
+  display: flex;
+  width: 500px;
+  height: 120px;
+  margin-top: 50px;
+  margin-left: 450px;
+  border-radius: 15px;
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.title {
+  position: relative;
+  top: 10px;
+  width: 200px;
+  left: 150px;
+  font-size: 20px;
+}
+
+.rating {
+  width: 50px;
+  padding-left: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 15px;
+  border-radius: 15px;
+  background-color: orange;
+  color: white;
+  font-size: 15px;
+  position: relative;
+  top: 50px;
+  right: 50px;
+}
+
+.delete {
+  position: relative;
+  top: 65px;
+  right: 130px;
+  width: 70px;
+  height: 25px;
+  border-style: none;
+  background-color: red;
+  color: white;
+  border-radius: 5px;
+}
+.edit {
+  position: relative;
+  top: 65px;
+  right: 90px;
+  width: 70px;
+  height: 25px;
+  border-style: none;
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+}
+.image {
+  position: relative;
+  top: -2px;
+  right: 288px;
+  width: 120px;
+  height: 123px;
+  border-radius: 10px 0px 0px 10px;
+}
